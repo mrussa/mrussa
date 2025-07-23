@@ -15,38 +15,32 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Maria! 👋</h1>
+
 <p align="center">
   <a href="https://github.com/[YourGitHubUsername]">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Cat+Lover+%F0%9F%90%B1;Swift+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Go+Developer+%F0%9F%90%B9;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Always+Learning+%F0%9F%93%9A&center=true&width=420&height=45">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Coding gif"/>
 </p>
 
 ## 🐾 About Me
 
-Welcome to my GitHub! I'm a passionate coder who loves nothing more than spending time with my adorable cat, Pakkun, and diving into the world of programming. With a cup of coffee in one hand and Pakkun purring in the other, I tackle challenges in Swift, always looking to sharpen my skills and embrace new technologies.
+Welcome to my GitHub! I’m a backend engineer who loves nothing more than pairing a fresh cup of coffee with some Go concurrency patterns—usually with my cat Pakkun supervising 🐱.
 
-- 🔭 I’m currently working on personal projects that not only challenge me but also make Pakkun proud.
-- 🌱 I’m currently learning more about advanced algorithms and how to optimize code for better performance.
-- 👯 I’m looking to collaborate on open source projects that benefit the community or have a positive impact on the world.
-- 💬 Ask me about my journey with Swift, or anything about Pakkun!
-- ⚡ Fun fact: Did you know that Pakkun can type "Hello World!" in Swift? Just kidding, but that would be pretty cool!
+---
 
-## 🐱‍💻 Languages and Tools:
+### 🛠️ Tech Stack
 
-```text
-Swift        ██████████████████░░░░   75%
-C            ████████████░░░░░░░░░░   50%
-Git          ██████████████████░░░░   75%
-Others       ██████░░░░░░░░░░░░░░░░   30%
-```
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
 
-## 📫 How to Reach Me:
+---
 
-- 🐦 Telegram: [@mruss](https://t.me/mruss)
-- 😺 And of course, through GitHub issues and pull requests on my repos!
+> “Don’t communicate by sharing memory; share memory by communicating.” – *Effective Go*
 
-Let's connect and create something amazing together. And remember, in the words of a famous cat, "Time spent with cats is never wasted."
